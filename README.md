@@ -82,9 +82,9 @@ This project is created for academic and research purposes.
 
 ## Contact
 For questions,feedback or collaboration:
-Name : K.Sai Sanjana
-Email : sanjanakona.5@gmail.com
-Github : 
+- Name : K.Sai Sanjana
+- Email : sanjanakona.5@gmail.com
+- Github : https://github.com/SaiSanjana0504
 
 
 
