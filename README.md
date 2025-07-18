@@ -81,7 +81,7 @@ https://drive.google.com/file/d/1FDmdWv1EhXupC0b1FzasWX50SAQYykXg/view?usp=drive
 This project is created for academic and research purposes.
 
 ## Contact
-For questions,feedback or collaboration:
+ For questions,feedback or collaboration:
 - Name : K.Sai Sanjana
 - Email : sanjanakona.5@gmail.com
 - Github : https://github.com/SaiSanjana0504
